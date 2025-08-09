@@ -7,7 +7,7 @@ This repository contains the Jupyter notebooks and hands-on projects I completed
 ---
 ## IBM Cloud Training
 <!-- Add your portfolio front page image here -->
-![IBM Cloud Training](assets/portfolio.png)
+![IBM Cloud Training](Assets/IBM_Cloud.jpg)
 
 ---
 
@@ -17,6 +17,6 @@ This repository contains the Jupyter notebooks and hands-on projects I completed
 ---
 ## Trianing Accuracy lose and hyper parameters
 <!-- Add your portfolio front page image here -->
-![Trianing](assets/portfolio.png)
+![Trianing](Assets/training_2phases.jpg)
 
 ---
