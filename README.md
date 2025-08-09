@@ -11,12 +11,8 @@ This repository contains the Jupyter notebooks and hands-on projects I completed
 
 ---
 
-
-
-
----
 ## Trianing Accuracy lose and hyper parameters
 <!-- Add your portfolio front page image here -->
 ![Trianing](Assets/training_2phases.jpg)
 
----
+
